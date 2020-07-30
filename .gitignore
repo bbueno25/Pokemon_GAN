@@ -1,0 +1,5 @@
+*.json
+*.pyc
+dist/pokegan-0.0.0.tar.gz
+pokegan.egg-info/*
+pokegan-0.0.0/*

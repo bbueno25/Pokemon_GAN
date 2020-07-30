@@ -1,16 +1,20 @@
-# pokeGAN
+# PokeGAN
 
 ## Overview
-This is the code for [this](https://youtu.be/yz6dNf7X7SA) video on Youtube by Siraj Raval. We'll use a WGAN to create new kinds of Pokemon. 
 
-## Dependencies (pip install) 
+This is the code for [this](https://youtu.be/yz6dNf7X7SA) video on Youtube by Siraj Raval.
+We'll use a WGAN to create new kinds of Pokemon.
+
+## Dependencies
+
 ```
-cv2
-tensorflow( >=1.0)
-scipy
-numpy
+pip install tensorflow (>=1.0)
+pip install scipy
+pip install numpy
 ```
+
 ## Usage
+
 ```
 cd pokeGAN
 python resize.py
@@ -18,13 +22,15 @@ python RGBA2RGB.py
 python pokeGAN.py
 ```
 
-And open the notebook by typing in `jupyter notebook` in the root directory. Install it [here](http://jupyter.readthedocs.io/en/latest/install.html) if you haven't  
+And open the notebook by typing in `jupyter notebook` in the root directory.
+Install it [here](http://jupyter.readthedocs.io/en/latest/install.html) if you haven't already.
 
-## example pokemon
+## Example Pokemon
+
 ![image1](https://github.com/moxiegushi/pokeGAN/raw/master/images/Notes_1500532347861.jpeg)
-
-![image2](https://github.com/moxiegushi/pokeGAN/raw/master/images/Notes_1500532371830.jpeg)
 
 ## Credits
 
-The credits for this code go to [moxiegushi](https://github.com/moxiegushi/pokeGAN). I've merely created a wrapper to get people started. 
+* **Moxie Gushi** - *original author* - [moxiegushi](https://github.com/moxiegushi)
+* **Siraj Raval** - *contributor* - [||Source||](https://github.com/llSourcell)
+* **Ben Bueno** - *contributor* - [bbueno5000](https://github.com/bbueno5000)
