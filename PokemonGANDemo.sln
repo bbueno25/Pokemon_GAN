@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pokemon_gan_demo", "pokemon_gan_demo\pokemon_gan_demo.pyproj", "{275F0F0D-CE58-40E5-B3C2-C8CC67EE1C03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{275F0F0D-CE58-40E5-B3C2-C8CC67EE1C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275F0F0D-CE58-40E5-B3C2-C8CC67EE1C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {002C2063-CA2E-4BD3-91F3-1B63B0F2EF23}
+	EndGlobalSection
+EndGlobal
